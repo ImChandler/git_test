@@ -1,0 +1,1 @@
+This is ice's first git project!
